@@ -20,7 +20,7 @@ pygmentsUseClasses = true
   rss = true
   lastmod = true
   favicon = "/images/github-mark.png"
-  avatar = "/images/avatar.png"
+  avatar = "/images/avatar.jpeg"
   headerIcon = "/images/github-mark-white.png"
   location = "China"
   userStatusEmoji = "😀"
@@ -45,7 +45,7 @@ pygmentsUseClasses = true
   [[params.links]]
     title = "Link2"
     href = "https://meik2333.com"
-    icon = "https://meik2333.com/images/avatar.png"
+    icon = "https://meik2333.com/images/avatar.jpeg"
 
 [frontmatter]
   lastmod = ["lastmod", ":fileModTime", ":default"]
